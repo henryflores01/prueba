@@ -1,2 +1,2 @@
 este es un archivo nuevo
-esta linea existe en la rama1
+esta linea existe en la rama master
