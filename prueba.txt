@@ -1,2 +1,3 @@
-este es un texto de prueba\
-local
+este es un texto de prueba
+linea en github
+otra linea
